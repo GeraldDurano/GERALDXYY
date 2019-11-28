@@ -34,6 +34,7 @@ a{
 <body>
 	<nav class="navbar navbar-inverse">
   <ul class="nav navbar-nav">
+  <li><a href="home.php">Home</a></li>
     <li><a href="add.html">Student Table</a></li>
      <li><a href="add2.php">Class Table</a></li>
      <li><a href="index2.php"> View Class Table</a></li>
@@ -41,7 +42,7 @@ a{
    
   </ul>
  <ul class="nav navbar-nav navbar-right">
-      <li><a href="register.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+     
       <li><a href="logout.php"><span class="glyphicon glyphicon-log-in"></span> Log Out</a></li>
     </ul>
 
